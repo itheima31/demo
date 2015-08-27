@@ -1,0 +1,5 @@
+class Demo{
+	
+	int age;
+
+}
